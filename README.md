@@ -1,5 +1,5 @@
 # bitcoin-privacy
-bitcoin from information security perspective
+Messy notes on privacy and bitcoin
 
 
 
