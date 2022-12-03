@@ -5,3 +5,4 @@ Messy notes on privacy and bitcoin
 
 ## resources
 
+****

@@ -1,15 +1,23 @@
 # What is privacy and why it matters in Bitcoin?
 
 
+Idea for this section is to introduce relevant history and vocabulary and motivate the audience to think about the value of privacy (mainly internet) and implications of not having it.
+
+
+
+
+
+
+
 [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)
+
+[Attacks on privacy](https://en.bitcoin.it/wiki/Privacy#Blockchain_attacks_on_privacy)
 
 [Privacy and Anonymity](https://www.privateinternetaccess.com/blog/how-does-privacy-differ-from-anonymity-and-why-are-both-important/) 
 
-[Princlipes of Bitcoin](https://en.bitcoin.it/wiki/Principles_of_Bitcoin) //remove?
-
 [Doxing](https://en.wikipedia.org/wiki/Doxing)
 
-[Attacks on privacy](https://en.bitcoin.it/wiki/Privacy#Blockchain_attacks_on_privacy)
+[Princlipes of Bitcoin](https://en.bitcoin.it/wiki/Principles_of_Bitcoin) //remove? use whitepaper instead
 
 [Fungibility](https://en.bitcoin.it/wiki/Fungibility)
 
@@ -30,6 +38,7 @@ https://blockfi.com/prohibited-uses
 
 ## discussion questions
 
+- What does "open society" means?
 
 - Why does privacy matter?
 
@@ -63,13 +72,17 @@ https://blockfi.com/prohibited-uses
 ## potentially relevant
 --- 
 
-
+code is free speech -> adam back flying to europe
 
 https://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf
 
 https://www.eff.org/cyberspace-independence
 
 
+>No one shall be subjected to arbitrary inter­fer­ence with his privacy, family, home or corre­spon­dence, nor to attacks upon his honour and reputa­tion. Everyone has the right to the protec­tion of the law against such inter­fer­ence or attacks.
 
+\- Article 12, United Nations Decla­ra­tion of Human Rights
+
+https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
 
 

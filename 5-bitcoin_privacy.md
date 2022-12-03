@@ -1,6 +1,8 @@
 
 tools for quantifying and improving privacy on bitcoin
 
+
+
 [Entropy of a transaction](https://gist.github.com/LaurentMT/e758767ca4038ac40aaf)
 
 [Link Probability](https://gist.github.com/LaurentMT/d361bca6dc52868573a2)
@@ -39,3 +41,13 @@ or here https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-December/01
 [spacechains](https://medium.com/@RubenSomsen/21-million-bitcoins-to-rule-all-sidechains-the-perpetual-one-way-peg-96cb2f8ac302)
     https://www.youtube.com/watch?v=N2ow4Q34Jeg
 
+
+
+
+
+
+
+
+### ideas
+
+talk to burak to create a scripting demo

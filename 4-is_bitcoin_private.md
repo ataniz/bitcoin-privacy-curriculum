@@ -18,14 +18,22 @@ bip 158
 
 [[https://github.com/bitcoin/bips/blob/master/bip-0158.mediawiki][BIP 158]]
 
-Transaction Fingerprinting
-    add info about transaction types and mentioned fileds
 
-https://github.com/achow101/wallet-fingerprinting
+wallet realted:
 
-https://b10c.me/observations/
+  Transaction Fingerprinting
+      add info about transaction types and mentioned fileds
+
+  https://github.com/achow101/wallet-fingerprinting
+
+  https://b10c.me/observations/
+
+  coin selection
+  transaction fingerprinting
 
 
+[mastering bitcoin transcations](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc)
+[matering bitcoin advanced transactions (multisig segwit)](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc)
 
 
 ## questions
