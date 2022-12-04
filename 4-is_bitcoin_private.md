@@ -3,6 +3,8 @@
 analysis of identifiers users produce as they interact with the network
 
 
+[Map of the Bitcoin Network](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3) \\ node types
+
 Node network activity
 - broadcast behaviour
   - [transaction rebroadcasting](https://www.youtube.com/watch?v=v4TXfwwz_VI) //find the transcript

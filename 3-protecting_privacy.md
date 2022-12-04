@@ -1,5 +1,7 @@
 # Protecting Privacy
 
+https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf
+
 >talk to hennig and some other CTF people for inputs
 
 setting good
@@ -62,3 +64,9 @@ https://medium.com/@brannondorsey/wi-fi-is-broken-3f6054210fa5
 
 
 
+
+>But we discovered something. Our one hope against total domination. A hope that with courage, insight and solidarity we could use to resist. A strange property of the physical universe that we live in. The universe believes in encryption. It is easier to encrypt information than it is to decrypt it. We saw we could use this strange property to create the laws of a new world.71
+
+Similarly, Edward Snowden writes:72
+
+>In words from history, let us speak no more of faith in man, but bind him down from mischief by the chains of cryptography.73

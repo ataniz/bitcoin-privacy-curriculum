@@ -45,6 +45,8 @@ https://blockfi.com/prohibited-uses
 - If you don't have [anything to hide](https://en.wikipedia.org/wiki/Nothing_to_hide_argument), why do you care about privacy?
 
 - What are the implications of lack of privacy for the individual and for the society?
+
+- private vs secret
   
 - Could one attain privacy only by oneself? 
 
@@ -62,6 +64,7 @@ https://blockfi.com/prohibited-uses
 
 - what are some covert and overt actions one can take to improve their privacy
 
+- 
 
 
 
