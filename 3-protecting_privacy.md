@@ -5,7 +5,16 @@
 [what happened to the crypto dream pt1](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part1.pdf)
 [what happened to the crypto dream pt2](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part2.pdf)
 
+crypto for infosec and crypto for privacy
 
+https://cseweb.ucsd.edu/~mihir/papers/isw-pops.pdf
+
+https://www.cs.ucdavis.edu/~rogaway/papers/cc.pdf
+
+Practice-Oriented Provable Security and the
+Social Construction of Cryptography
+
+this idea could be connected with various federations designs where the security model relies on social trust and reputation
 
 
 >talk to hennig and some other CTF people for inputs
