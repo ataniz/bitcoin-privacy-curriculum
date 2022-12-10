@@ -1,6 +1,12 @@
 # Protecting Privacy
 
-https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf
+[moral landscape of cryptographic work](https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
+
+[what happened to the crypto dream pt1](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part1.pdf)
+[what happened to the crypto dream pt2](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part2.pdf)
+
+
+
 
 >talk to hennig and some other CTF people for inputs
 
@@ -37,6 +43,7 @@ tor
 I2P
 
 [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+ https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Zero%20Knowledge/Proofs_That_Yield_Nothing_But_Their_Validity_or_All_Languages_in_NP_Have_Zero-Knowledge_Proof_Systems.pdf
 
 
 VPNs
@@ -70,3 +77,5 @@ https://medium.com/@brannondorsey/wi-fi-is-broken-3f6054210fa5
 Similarly, Edward Snowden writes:72
 
 >In words from history, let us speak no more of faith in man, but bind him down from mischief by the chains of cryptography.73
+
+peterson commiments moon mathtrocador.ap

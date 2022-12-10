@@ -3,7 +3,7 @@
 
 Idea for this section is to introduce relevant history and vocabulary and motivate the audience to think about the value of privacy (mainly internet) and implications of not having it.
 
-
+https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-human-right-2ab6dae77433
 
 
 
@@ -38,7 +38,7 @@ https://blockfi.com/prohibited-uses
 
 ## discussion questions
 
-- What does "open society" means?
+- What does "open society" mean?
 
 - Why does privacy matter?
 
@@ -53,12 +53,11 @@ https://blockfi.com/prohibited-uses
 - What is fungibility? Why is it a valued property of money?
 
 - How does fungibility relate to censorship resistance?
-
-- What are the prerequisites for censorship?
+  - What are the prerequisites for censorship?
 
 - Is Bitcoin fungible?
 
-- How does privacy differ from confidentiality?
+- How does private differ from confidential?
 
 - pseudonimity 
 
@@ -89,3 +88,5 @@ https://www.eff.org/cyberspace-independence
 https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
 
 
+>The foundation is being laid for a dossier society, in which computers could be used to infer individuals’ life-styles, habits, whereabouts, and associations from data collected in ordinary consumer transactions. Uncertainty about whether data will remain secure against abuse by those maintaining or tapping it can have a `chilling effect,’ causing people to alter their observable activities. 
+\- David Chaum: Security without Identification: transaction systems to make big brother obsolete. CACM 1985

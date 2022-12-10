@@ -1,3 +1,12 @@
+# introspection
+
+
+why do you care about bitcoin?
+                        privacy?
+
+
+
+
 # resources
 
 

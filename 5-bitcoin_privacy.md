@@ -2,6 +2,7 @@
 tools for quantifying and improving privacy on bitcoin
 
 
+bip 47 payment code/ https://samourai.kayako.com/article/68-what-are-paynyms
 
 [Entropy of a transaction](https://gist.github.com/LaurentMT/e758767ca4038ac40aaf)
 
@@ -14,6 +15,8 @@ coinjoin
         https://bitcointalk.org/index.php?topic=279249.0
         https://github.com/zkSNACKs/WabiSabi
 
+
+receiver anonimity in bitcoin and lightning
         
         
 

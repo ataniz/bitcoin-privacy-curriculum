@@ -31,6 +31,25 @@ TODO: add a resource about basic into to information security
     k anonimity
     quasi identifier
     
+- what are the shortcomings of *anonimity set* model for measuring anonymity?
+
+- what is *anonimity probability distribution* and how does it enrich *anonimity set* based measurements?
+
+- what is the entropy of a transaction?
+
+- Provide examples of different real life scenarios (like the ones described in bitcoin/privacy) for different attacker definitions described in the >paper<
+
+Definition of Attacker
+
+These papers also served to give concise definitions of an attacker:
+
+Internal/External
+    an internal attacker controls nodes in the network, whereas an external can only compromise communication channels between nodes.
+Passive/Active
+    an active attacker can add, remove, and modify any messages, whereas a passive attacker can only listen to the messages.
+Local/Global
+    a local attacker has access to only part of the network, whereas a global can access the entire network.
+
 > While access control and authentication protections can safeguard against direct disclosures, they do not address disclosures based on inferences that can be drawn from released data.
     confidentiality vs privacy 
 
