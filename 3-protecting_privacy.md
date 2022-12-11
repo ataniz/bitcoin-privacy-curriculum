@@ -7,6 +7,12 @@
 
 crypto for infosec and crypto for privacy
 
+think in terms of thes two categories
+
+
+
+
+
 https://cseweb.ucsd.edu/~mihir/papers/isw-pops.pdf
 
 https://www.cs.ucdavis.edu/~rogaway/papers/cc.pdf

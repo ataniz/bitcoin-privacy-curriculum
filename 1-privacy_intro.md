@@ -17,7 +17,8 @@ https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-hu
 
 [Doxing](https://en.wikipedia.org/wiki/Doxing)
 
-[Princlipes of Bitcoin](https://en.bitcoin.it/wiki/Principles_of_Bitcoin) //remove? use whitepaper instead
+<!-- [Princlipes of Bitcoin](https://en.bitcoin.it/wiki/Principles_of_Bitcoin) //remove? use whitepaper instead -->
+[bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)
 
 [Fungibility](https://en.bitcoin.it/wiki/Fungibility)
 
@@ -38,7 +39,8 @@ https://blockfi.com/prohibited-uses
 
 ## discussion questions
 
-- What does "open society" mean?
+- What does it mean to be an "open society"?
+  >"a society in which an individual is confronted with personal decisions"
 
 - Why does privacy matter?
 
@@ -46,9 +48,11 @@ https://blockfi.com/prohibited-uses
 
 - What are the implications of lack of privacy for the individual and for the society?
 
+- Is "security as a collective goal" a valid reason to violate "individuals right for privacy"? 
+
 - private vs secret
   
-- Could one attain privacy only by oneself? 
+- Could one attain privacy only by oneself? Is it possible to be anonymous without a "crowd"?
 
 - What is fungibility? Why is it a valued property of money?
 
@@ -63,7 +67,7 @@ https://blockfi.com/prohibited-uses
 
 - what are some covert and overt actions one can take to improve their privacy
 
-- 
+- Is there any value in designing open, fully transparent system? Is privacy always a future, is openness always a vulnerability?
 
 
 

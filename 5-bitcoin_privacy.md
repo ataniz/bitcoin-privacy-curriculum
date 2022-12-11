@@ -1,6 +1,8 @@
 
 tools for quantifying and improving privacy on bitcoin
 
+on chain and off chain privacy
+
 
 bip 47 payment code/ https://samourai.kayako.com/article/68-what-are-paynyms
 
