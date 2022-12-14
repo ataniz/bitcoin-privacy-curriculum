@@ -1,7 +1,7 @@
+Analysis of identifiers users produce as they interact with the network, mainly wallet and node behavior. Also consider the social aspect, for example KYC and custodial scenarios, blockexplorers
+
+find resources that explain different transaction types, usage of OP codes etc through examples and visuals
 # Is Bitcoin Private?
-
-analysis of identifiers users produce as they interact with the network
-
 
 [Map of the Bitcoin Network](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3) \\ node types
 
@@ -18,10 +18,10 @@ Block filters
 bip 157
 bip 158
 
-[[https://github.com/bitcoin/bips/blob/master/bip-0158.mediawiki][BIP 158]]
+[BIP 158](https://github.com/bitcoin/bips/blob/master/bip-0158.mediawiki)
 
 
-wallet realted:
+wallet related:
 
   Transaction Fingerprinting
       add info about transaction types and mentioned fileds
@@ -34,8 +34,8 @@ wallet realted:
   transaction fingerprinting
 
 
-[mastering bitcoin transcations](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc)
-[matering bitcoin advanced transactions (multisig segwit)](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc)
+[mastering bitcoin transactions](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc)
+[mastering bitcoin advanced transactions (multisig segwit)](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc)
 
 
 ## questions

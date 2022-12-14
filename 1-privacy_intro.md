@@ -40,9 +40,10 @@ https://blockfi.com/prohibited-uses
 ## discussion questions
 
 - What does it mean to be an "open society"?
-  >"a society in which an individual is confronted with personal decisions"
+  >"a society in which an individual is confronted with personal decisions" 
+  \-popper
 
-- Why does privacy matter?
+<!-- - Why does privacy matter? -->
 
 - If you don't have [anything to hide](https://en.wikipedia.org/wiki/Nothing_to_hide_argument), why do you care about privacy?
 
@@ -52,9 +53,10 @@ https://blockfi.com/prohibited-uses
 
 - private vs secret
   
-- Could one attain privacy only by oneself? Is it possible to be anonymous without a "crowd"?
+- Could one attain privacy only by oneself? Is it possible to be anonymous without a "crowd"? 
+- How does usability relate to privacy?
 
-- What is fungibility? Why is it a valued property of money?
+- What is fungibility? Why is it a valued property of money? Does it really matter?
 
 - How does fungibility relate to censorship resistance?
   - What are the prerequisites for censorship?
@@ -67,7 +69,9 @@ https://blockfi.com/prohibited-uses
 
 - what are some covert and overt actions one can take to improve their privacy
 
-- Is there any value in designing open, fully transparent system? Is privacy always a future, is openness always a vulnerability?
+- Is there any value in designing open, fully transparent system? Is privacy always a feature, is openness always a vulnerability?
+
+- Is privacy more important than auditability, should there be a trade-off between the two?
 
 
 

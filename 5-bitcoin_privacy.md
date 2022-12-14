@@ -1,6 +1,9 @@
 
 tools for quantifying and improving privacy on bitcoin
 
+talk to burak to create a scripting demo
+# Bitcoin & Privacy
+
 on chain and off chain privacy
 
 
@@ -18,12 +21,8 @@ coinjoin
         https://github.com/zkSNACKs/WabiSabi
 
 
-receiver anonimity in bitcoin and lightning
+Receiver/sender anonymity in bitcoin vs lightning?
         
-        
-
-
-
 [Privacy on Lightning](https://github.com/lnbook/lnbook/blob/develop/16_security_privacy_ln.asciidoc)
 
 [Anonymous CoinJoin Transactions with Arbitrary Values](https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf) //knapscak coinjoins
@@ -39,7 +38,7 @@ receiver anonimity in bitcoin and lightning
 
 
 
-## maaay be relevant
+## maaay be relevant // or not really...
 
 [softchains](https://gist.github.com/RubenSomsen/7ecf7f13dc2496aa7eed8815a02f13d1)
 or here https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-December/018331.html
@@ -47,12 +46,3 @@ or here https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-December/01
     https://www.youtube.com/watch?v=N2ow4Q34Jeg
 
 
-
-
-
-
-
-
-### ideas
-
-talk to burak to create a scripting demo
