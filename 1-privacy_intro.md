@@ -1,7 +1,10 @@
+```
+Idea for this section is to introduce relevant history and vocabulary and motivate the audience to think about the value of privacy (mainly internet) and implications of not having it.
+```
 # What is privacy and why it matters in Bitcoin?
 
 
-Idea for this section is to introduce relevant history and vocabulary and motivate the audience to think about the value of privacy (mainly internet) and implications of not having it.
+
 
 https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-human-right-2ab6dae77433
 
@@ -23,25 +26,15 @@ https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-hu
 [Fungibility](https://en.bitcoin.it/wiki/Fungibility)
 
 
-### context
-
-[Celcius rugging and doxing](https://twitter.com/hdevalence/status/1578128350958059520)
-
-https://www.privateinternetaccess.com/blog/internet-freedom-around-the-world-in-50-stats/
-
-https://blockfi.com/prohibited-uses
-
-
-### exercises
-
-
-
 
 ## discussion questions
 
-- What does it mean to be an "open society"?
-  >"a society in which an individual is confronted with personal decisions" 
-  \-popper
+- What is an "open society"?
+
+  <!-- >"a society in which an individual is confronted with personal decisions" 
+  \-popper -->
+
+- Take two societies, in one individual is burdened by the responsibility of making personal decisions and suffering
 
 <!-- - Why does privacy matter? -->
 
@@ -51,23 +44,22 @@ https://blockfi.com/prohibited-uses
 
 - Is "security as a collective goal" a valid reason to violate "individuals right for privacy"? 
 
-- private vs secret
+- Is privacy different from secrecy?
   
-- Could one attain privacy only by oneself? Is it possible to be anonymous without a "crowd"? 
-- How does usability relate to privacy?
+- Could one attain privacy only by oneself? Is it possible to talk about anonymity without a "crowd"? 
+
+- How does usability of technologies relate to privacy? Why are most messaging and emailing apps still don't support E2E encryption?
 
 - What is fungibility? Why is it a valued property of money? Does it really matter?
+  <!-- - What are the prerequisites for censorship? -->
 
-- How does fungibility relate to censorship resistance?
-  - What are the prerequisites for censorship?
+- Is Bitcoin fungible? How does fungibility relate to censorship resistance?
 
-- Is Bitcoin fungible?
+- How does privacy differ from confidentiality? What are the differences between the scenarios under which they are relevant?
 
-- How does private differ from confidential?
+- What are the benefits and drawbacks of using one's real name, a pseudonym, or an anonymous identity?
 
-- pseudonimity 
-
-- what are some covert and overt actions one can take to improve their privacy
+- what are the differences between covert and overt actions? Why would be one preferable to the other?
 
 - Is there any value in designing open, fully transparent system? Is privacy always a feature, is openness always a vulnerability?
 
@@ -81,6 +73,14 @@ https://blockfi.com/prohibited-uses
 
 ## potentially relevant
 --- 
+
+[Celcius rugging and doxing](https://twitter.com/hdevalence/status/1578128350958059520)
+
+https://www.privateinternetaccess.com/blog/internet-freedom-around-the-world-in-50-stats/
+
+https://blockfi.com/prohibited-uses
+
+[Cyperphunks write code (reason documentry)](https://www.youtube.com/watch?v=9vM0oIEhMag)
 
 code is free speech -> adam back flying to europe
 

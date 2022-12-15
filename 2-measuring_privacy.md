@@ -1,10 +1,14 @@
+```
+This section aims to introduce quantifiable metrics and methods for evaluating privacy. These metrics and methods will be later applied to bitcoin context. Section also consideres the neccesity of usability for privacy technologies and argues that it is not a single player game. 
+
+TODO: add a resource about basic intro to information security
+```
+
 # Measuring Privacy
 
 [threat model](https://en.wikipedia.org/wiki/Threat_model)
 
 ![](https://imgs.xkcd.com/comics/security.png)
-
-TODO: add a resource about basic intro to information security
 
 [k-ANONYMITY: A MODEL FOR PROTECTING PRIVACY](https://web.archive.org/web/20210720143809/https://www.win.tue.nl/~jhartog/CourseVerif/Papers/10.1.1.90.4099.pdf)
     (optional) [Simple Demographic Often Identify People Uniquely](https://dataprivacylab.org/projects/identifiability/paper1.pdf)
@@ -25,7 +29,7 @@ TODO: add a resource about basic intro to information security
 
 - K anonymity
   - What does 'inference' mean?
-    - TODO: add a question related to "heuristics" as a metod of inference
+    - TODO: add a question related to "heuristics" as a method of inference
     
     disclosure
     k anonymity

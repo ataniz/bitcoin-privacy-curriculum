@@ -1,7 +1,13 @@
-Analysis of identifiers users produce as they interact with the network, mainly wallet and node behavior. Also consider the social aspect, for example KYC and custodial scenarios, blockexplorers
+```
 
-find resources that explain different transaction types, usage of OP codes etc through examples and visuals
+This section analyses the identifiers users leak as they interact with the network, mainly thorugh wallet and node behavior. It also introduces meatspace dimenstion of the problem for example KYC and custodial scenarios, blockexplorers
+
+TODO: find resources that explain different transaction types, usage of OP codes etc through examples and visuals
+```
 # Is Bitcoin Private?
+
+
+where are you running your node (clearnet, tor, I2P)
 
 [Map of the Bitcoin Network](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3) \\ node types
 

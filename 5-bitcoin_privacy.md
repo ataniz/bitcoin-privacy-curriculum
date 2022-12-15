@@ -1,7 +1,8 @@
+```
+This section disscusses tools and practices for measuring and improving privacy while using bitcoin
 
-tools for quantifying and improving privacy on bitcoin
-
-talk to burak to create a scripting demo
+TODO: talk to burak to create a scripting demo
+```
 # Bitcoin & Privacy
 
 on chain and off chain privacy
@@ -21,8 +22,7 @@ coinjoin
         https://github.com/zkSNACKs/WabiSabi
 
 
-Receiver/sender anonymity in bitcoin vs lightning?
-        
+
 [Privacy on Lightning](https://github.com/lnbook/lnbook/blob/develop/16_security_privacy_ln.asciidoc)
 
 [Anonymous CoinJoin Transactions with Arbitrary Values](https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf) //knapscak coinjoins
@@ -35,6 +35,19 @@ Receiver/sender anonymity in bitcoin vs lightning?
     [see also](https://github.com/john-light/sidechains)
 
 [rollups](https://github.com/john-light/validity-rollups/blob/main/validity_rollups_on_bitcoin.md) 
+
+
+
+## discussion questions
+
+- Looking at blockchains that are supporting confidential transactions, a question appears: Is "privacy by default" a valid reason for sacrificing "easy verifiably"? What are some other implications of having an "opaque" blockchain?
+
+- How does receiver/sender anonymity compare in bitcoin and lightning?
+
+
+
+
+
 
 
 
