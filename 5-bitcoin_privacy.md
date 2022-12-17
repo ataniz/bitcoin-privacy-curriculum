@@ -16,6 +16,11 @@ bip 47 payment code/ https://samourai.kayako.com/article/68-what-are-paynyms
 
 covert vs overt - payjoin vs coinjoin
 
+>A common usage pattern for improved privacy is to use Bitcoin Core with 
+[electrum personal server](https://github.com/chris-belcher/electrum-personal-server)
+[bwt](https://github.com/bwt-dev/bwt)
+
+
 coinjoin 
     https://bitcoinops.org/en/topics/coinjoin/
         https://bitcointalk.org/index.php?topic=279249.0
@@ -23,19 +28,21 @@ coinjoin
 
 
 
-[Privacy on Lightning](https://github.com/lnbook/lnbook/blob/develop/16_security_privacy_ln.asciidoc)
-
 [Anonymous CoinJoin Transactions with Arbitrary Values](https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf) //knapscak coinjoins
 
 
 [coinswap](https://bitcoinops.org/en/topics/coinswap/)
 
+[Attacks on privacy](https://en.bitcoin.it/wiki/Privacy#Blockchain_attacks_on_privacy)
 
 [Sidechains](https://blockstream.com/sidechains.pdf)
     [see also](https://github.com/john-light/sidechains)
 
 [rollups](https://github.com/john-light/validity-rollups/blob/main/validity_rollups_on_bitcoin.md) 
 
+TODO: attacks on bitcoin privacy, eclipse? miner cencorship?
+
+TODO: federations (bitcoin beach wallet, fedimint), social 
 
 
 ## discussion questions
@@ -44,18 +51,22 @@ coinjoin
 
 - How does receiver/sender anonymity compare in bitcoin and lightning?
 
+- Does coin swapping provide a protection against censorship? How is it different from 'playing musical chairs'? Does it really improve the overall fungibility of bitcoin? (what I mean here it that 'tainted' coins still stay 'tainted')
+
+- Compare two join operations, coinjoin and payjoin. What are the 
+
+TODO: randevue and trambolines in lightning
 
 
 
 
 
 
-
-## maaay be relevant // or not really...
+<!-- ## maaay be relevant // or not really...
 
 [softchains](https://gist.github.com/RubenSomsen/7ecf7f13dc2496aa7eed8815a02f13d1)
 or here https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-December/018331.html
 [spacechains](https://medium.com/@RubenSomsen/21-million-bitcoins-to-rule-all-sidechains-the-perpetual-one-way-peg-96cb2f8ac302)
-    https://www.youtube.com/watch?v=N2ow4Q34Jeg
+    https://www.youtube.com/watch?v=N2ow4Q34Jeg -->
 
 

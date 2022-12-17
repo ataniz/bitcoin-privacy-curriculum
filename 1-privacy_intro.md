@@ -14,8 +14,6 @@ https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-hu
 
 [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)
 
-[Attacks on privacy](https://en.bitcoin.it/wiki/Privacy#Blockchain_attacks_on_privacy)
-
 [Privacy and Anonymity](https://www.privateinternetaccess.com/blog/how-does-privacy-differ-from-anonymity-and-why-are-both-important/) 
 
 [Doxing](https://en.wikipedia.org/wiki/Doxing)
@@ -29,14 +27,17 @@ https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-hu
 
 ## discussion questions
 
-- What is an "open society"?
-
+<!-- - What is an "open society"? -->
   <!-- >"a society in which an individual is confronted with personal decisions" 
   \-popper -->
 
-- Take two societies, in one individual is burdened by the responsibility of making personal decisions and suffering
+<!-- - Take two societies, in one individual is burdened by the responsibility of making personal decisions and suffering -->
 
 <!-- - Why does privacy matter? -->
+
+- Is privacy a human right? Why?
+
+- Should a user be concerned about their privacy while using bitcoin?
 
 - If you don't have [anything to hide](https://en.wikipedia.org/wiki/Nothing_to_hide_argument), why do you care about privacy?
 
@@ -55,9 +56,10 @@ https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-hu
 
 - Is Bitcoin fungible? How does fungibility relate to censorship resistance?
 
-- How does privacy differ from confidentiality? What are the differences between the scenarios under which they are relevant?
+- How does the focus of evaluating privacy differ from confidentiality? What are the contexts that  relevant?
+> While access control and authentication protections can safeguard against direct disclosures, they do not address disclosures based on inferences that can be drawn from released data.
 
-- What are the benefits and drawbacks of using one's real name, a pseudonym, or an anonymous identity?
+- What are the benefits and drawbacks of using one's real name, a pseudonym, or an anonymous identity? (consistency of the identity, difficulty of doxing, optional disclosure)
 
 - what are the differences between covert and overt actions? Why would be one preferable to the other?
 
