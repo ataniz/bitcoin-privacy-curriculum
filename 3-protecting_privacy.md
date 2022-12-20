@@ -1,5 +1,5 @@
 ```
-This section introduces the technologies that are used to protect privacy and provide information security and resilience. It also aims to provide a social and historical context to the discussion.
+This section introduces the technologies that are used to improve privacy and security of the information. It also aims to provide a social and historical context to the discussion.
 
 TODO: talk to hennig and some other CTF people for inputs
 ```
@@ -22,7 +22,7 @@ this idea could be connected with various federation designs where the security 
 [Steganography](https://en.wikipedia.org/wiki/Steganography)
 
 
-### Crypto for security // not directly our scope so just leaving some practical and informative resources for the interested
+## Crypto for security // not directly our scope so just leaving some practical and informative resources for the interested
 
 [practical cryptography book](https://cryptobook.nakov.com/)
 
@@ -33,9 +33,9 @@ this idea could be connected with various federation designs where the security 
         symetric encryption - secret key encryption
             AES
         Asymetric encryption - public key cryptography
+            encrypting, decrypting, signing, validating signitures
             RSA
             Eliptic Curve
-                encrypting, decrypting, signing, validating signitures
             Deffie-Hellman Key exchange -->
 
 <!-- attacks on encryption
@@ -45,7 +45,7 @@ this idea could be connected with various federation designs where the security 
         chosen ciphertext attack -->
 
 
-### crypto for privacy
+## crypto for privacy
 
 [OG ZK paper](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Zero%20Knowledge/Proofs_That_Yield_Nothing_But_Their_Validity_or_All_Languages_in_NP_Have_Zero-Knowledge_Proof_Systems.pdf)
 
@@ -61,7 +61,7 @@ this idea could be connected with various federation designs where the security 
 moon math 🤷🏻‍♂️
 
 
-### networking
+## networking
 
 [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)
 
@@ -77,7 +77,7 @@ moon math 🤷🏻‍♂️
 
 ![](https://upload.wikimedia.org/wikipedia/en/f/f8/Internet_dog.jpg)
 
-## might be relevant
+## potentially relevant expolarations
 
 self-hosting vs cloud
 
@@ -87,6 +87,7 @@ good security practices
 good privacy practices
     using email relays
     pseudonym accounts
+    TODO: a question regarding methods for being prepared for such leaks, using email relays, one time passwords, random usernames
 
 social engineering
     (spear) fishing
@@ -102,13 +103,13 @@ social engineering
 
 - Why, in bitcoin community, is there a negative sentiment towards relying on cloud services for running a node?
 
-- Are P2P networks such as Tor of I2P viable networks for internet usage? What use cases and treat models would justify their high latency?
+- Are P2P networks such as Tor of I2P viable networks for daily internet usage? What use cases and treat models would justify their high latency?
 
 - VPN services are generally marketed as effective tools for privacy and circumventing censorship. How do they differ form networks such as I2P or Tor?
 
 
 
-## relevant memes: 
+## relevant material and memes: 
 memes are cultural artifacts that have survived the test of time in the domain of ideas. thinking deeply about them could provide insights to the fundamental tensions between different ideas and the position they take.
 
 
@@ -132,7 +133,5 @@ Similarly, Edward Snowden writes:72
 >In words from history, let us speak no more of faith in man, but bind him down from mischief by the chains of cryptography.73
 
 
-
-
-funny article a came across
+funny article I came across
 https://medium.com/@brannondorsey/wi-fi-is-broken-3f6054210fa5

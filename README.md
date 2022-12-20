@@ -24,7 +24,7 @@ a section on attacking bitcoin privacy?
 
 [protecting privacy](3-protecting_privacy.md)
 
-[is bitcoin private](4-is_bitcoin_private.md)
+[is bitcoin private?](4-is_bitcoin_private.md)
 
 [bitcoin privacy](5-bitcoin_privacy.md)
 
@@ -42,12 +42,12 @@ a section on attacking bitcoin privacy?
 [cleaned and condensed version](https://gist.github.com/nothingmuch/0ba650fcca7e8ce5181e56526dfdd0eb)
 
 
-<!-- indexed bitcoin resources -->
-https://btc-engine-1-react-demo-ui.netlify.app/?q=watchtower&size=n_20_n
+[indexed bitcoin resources](https://btc-engine-1-react-demo-ui.netlify.app)
 
 
 
-<!-- other privacy related resources -->
+## other privacy related resources
+
 https://www.swanbitcoin.com/bitcoin-privacy-best-practices/
 
 https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/

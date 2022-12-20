@@ -8,11 +8,9 @@ TODO: talk to burak to create a scripting demo
 on chain and off chain privacy
 
 
-bip 47 payment code/ https://samourai.kayako.com/article/68-what-are-paynyms
+bip 47 payment code https://samourai.kayako.com/article/68-what-are-paynyms
 
-[Entropy of a transaction](https://gist.github.com/LaurentMT/e758767ca4038ac40aaf)
 
-[Link Probability](https://gist.github.com/LaurentMT/d361bca6dc52868573a2)
 
 covert vs overt - payjoin vs coinjoin
 
@@ -23,9 +21,8 @@ covert vs overt - payjoin vs coinjoin
 
 coinjoin 
     https://bitcoinops.org/en/topics/coinjoin/
-        https://bitcointalk.org/index.php?topic=279249.0
-        https://github.com/zkSNACKs/WabiSabi
-
+    https://bitcointalk.org/index.php?topic=279249.0
+    https://github.com/zkSNACKs/WabiSabi
 
 
 [Anonymous CoinJoin Transactions with Arbitrary Values](https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf) //knapscak coinjoins
@@ -42,14 +39,13 @@ coinjoin
 
 TODO: attacks on bitcoin privacy, eclipse? miner cencorship?
 
-TODO: federations (bitcoin beach wallet, fedimint), social 
+TODO: federations (bitcoin beach wallet, chaumian mints), social 
 
 
 ## discussion questions
 
 - Looking at blockchains that are supporting confidential transactions, a question appears: Is "privacy by default" a valid reason for sacrificing "easy verifiably"? What are some other implications of having an "opaque" blockchain?
 
-- How does receiver/sender anonymity compare in bitcoin and lightning?
 
 - Does coin swapping provide a protection against censorship? How is it different from 'playing musical chairs'? Does it really improve the overall fungibility of bitcoin? (what I mean here it that 'tainted' coins still stay 'tainted')
 
@@ -57,8 +53,12 @@ TODO: federations (bitcoin beach wallet, fedimint), social
 
 TODO: randevue and trambolines in lightning
 
+- What are some anonymous ways of acquiring bitcoins?
+
+- Do bip 57 payment adresses improve users privacy? Considering that payment adresses are also unique adresses, how are they better than using onchain adresses?
 
 
+TODO: the cost of better privacy should be considered according to the treath model
 
 
 

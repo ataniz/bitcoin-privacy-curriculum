@@ -1,5 +1,5 @@
 ```
-Idea for this section is to introduce relevant history and vocabulary and motivate the audience to think about the value of privacy (mainly internet) and implications of not having it.
+Idea for this section is to introduce relevant history and vocabulary and motivate the audience to think about the value of privacy and implications of not having it.
 ```
 # What is privacy and why it matters in Bitcoin?
 
@@ -10,7 +10,7 @@ https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-hu
 
 
 
-
+TODO: what is privacy?
 
 [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)
 
@@ -26,6 +26,7 @@ https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-hu
 
 
 ## discussion questions
+--- 
 
 <!-- - What is an "open society"? -->
   <!-- >"a society in which an individual is confronted with personal decisions" 
@@ -35,7 +36,10 @@ https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-hu
 
 <!-- - Why does privacy matter? -->
 
-- Is privacy a human right? Why?
+TODO: why did cypherphunks
+
+- Should privacy a human right? Why?
+  >Information privacy is crucial to the broader right to privacy. It relates to an individual’s ability to determine for themselves when, how, and for what purpose their personal information is handled by others.
 
 - Should a user be concerned about their privacy while using bitcoin?
 
@@ -45,7 +49,7 @@ https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-hu
 
 - Is "security as a collective goal" a valid reason to violate "individuals right for privacy"? 
 
-- Is privacy different from secrecy?
+- Is privacy different from secrecy? 
   
 - Could one attain privacy only by oneself? Is it possible to talk about anonymity without a "crowd"? 
 
@@ -58,14 +62,15 @@ https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-hu
 
 - How does the focus of evaluating privacy differ from confidentiality? What are the contexts that  relevant?
 > While access control and authentication protections can safeguard against direct disclosures, they do not address disclosures based on inferences that can be drawn from released data.
+TODO: this question related to the differentiation of information security from privacy
 
 - What are the benefits and drawbacks of using one's real name, a pseudonym, or an anonymous identity? (consistency of the identity, difficulty of doxing, optional disclosure)
 
-- what are the differences between covert and overt actions? Why would be one preferable to the other?
+- what are the differences between covert and overt actions? Why and when would be one preferable to the other?
 
 - Is there any value in designing open, fully transparent system? Is privacy always a feature, is openness always a vulnerability?
 
-- Is privacy more important than auditability, should there be a trade-off between the two?
+<!-- - Is privacy more important than auditability, should there be a trade-off between the two? -->
 
 
 
@@ -73,7 +78,7 @@ https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-hu
 
 
 
-## potentially relevant
+## relevant material and memes
 --- 
 
 [Celcius rugging and doxing](https://twitter.com/hdevalence/status/1578128350958059520)
@@ -91,12 +96,12 @@ https://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf
 https://www.eff.org/cyberspace-independence
 
 
->No one shall be subjected to arbitrary inter­fer­ence with his privacy, family, home or corre­spon­dence, nor to attacks upon his honour and reputa­tion. Everyone has the right to the protec­tion of the law against such inter­fer­ence or attacks.
+> No one shall be subjected to arbitrary inter­fer­ence with his privacy, family, home or corre­spon­dence, nor to attacks upon his honour and reputa­tion. Everyone has the right to the protec­tion of the law against such inter­fer­ence or attacks.
 
 \- Article 12, United Nations Decla­ra­tion of Human Rights
 
 https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
 
 
->The foundation is being laid for a dossier society, in which computers could be used to infer individuals’ life-styles, habits, whereabouts, and associations from data collected in ordinary consumer transactions. Uncertainty about whether data will remain secure against abuse by those maintaining or tapping it can have a `chilling effect,’ causing people to alter their observable activities. 
+> The foundation is being laid for a dossier society, in which computers could be used to infer individuals’ life-styles, habits, whereabouts, and associations from data collected in ordinary consumer transactions. Uncertainty about whether data will remain secure against abuse by those maintaining or tapping it can have a `chilling effect,’ causing people to alter their observable activities. 
 \- David Chaum: Security without Identification: transaction systems to make big brother obsolete. CACM 1985
