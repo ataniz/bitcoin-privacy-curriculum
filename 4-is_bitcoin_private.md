@@ -5,51 +5,56 @@ This section analyses patential identifiers and information users leak as they i
 # Is Bitcoin Private?
 
 
-TODO: network that youre running your node (clearnet, tor, I2P)
 
-[Map of the Bitcoin Network](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3) \\ node types
 
-Node network activity
-- [transaction rebroadcasting](https://www.youtube.com/watch?v=v4TXfwwz_VI) //find the transcript
-dandelion
+# node related
 
-TODO: Light clients
-  electrum based
-  Block filters
-  bip 157
-  [BIP 158](https://github.com/bitcoin/bips/blob/master/bip-0158.mediawiki)
+[transaction rebroadcasting](https://www.youtube.com/watch?v=v4TXfwwz_VI)
 
-TODO: find resources that explain different transaction types, usage of OP codes etc through examples and visuals
+[Map of the Bitcoin Network](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3)
 
-wallet related:
+[BIP 37 proablems](https://en.bitcoin.it/wiki/BIP37_privacy_problems)
 
-  Transaction Fingerprinting
-      add info about transaction types and mentioned fileds
+[Client-side block filtering](https://en.bitcoin.it/wiki/Client-side_block_filtering)
 
-  https://github.com/achow101/wallet-fingerprinting
+[Attacks on privacy (blockchain)](https://en.bitcoin.it/wiki/Privacy#Blockchain_attacks_on_privacy)
+### Wallet related
 
-  https://b10c.me/observations/
+[Bitcoin Script](https://en.bitcoin.it/wiki/Script)
 
-  wallet fee defaults
+[Bitcoin Transactions](https://en.bitcoin.it/wiki/Transaction)
 
-  RBF, CPFP
+[mastering bitcoin transactions](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc)
+
+[mastering bitcoin advanced transactions (multisig segwit)](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc)
+
+
+
+### external information
+
+[Attacks on privacy (non-blockchain)](https://en.bitcoin.it/wiki/Privacy#Non-blockchain_attacks_on_privacy)
+
 
 TODO: coin selection
 TODO: chain graph heuristics
 TODO: KYC and transaction timing and amount knowledge
 
-[mastering bitcoin transactions](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc)
-[mastering bitcoin advanced transactions (multisig segwit)](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc)
 
-[Entropy of a transaction](https://gist.github.com/LaurentMT/e758767ca4038ac40aaf)
-
-[Link Probability](https://gist.github.com/LaurentMT/d361bca6dc52868573a2)
+[Boltzman Script](https://medium.com/@laurentmt/introducing-boltzmann-85930984a159)
 
 [Privacy on Lightning](https://github.com/lnbook/lnbook/blob/develop/16_security_privacy_ln.asciidoc)
 
+[Miner Privacy](https://braiins.com/blog/data-privacy-and-security-for-bitcoin-miners)
+bip69 input output ordering
+
+['taint'](https://blockfi.com/prohibited-uses)
 ## discussion questions
 
-- considering the value of privacy that was discussed in first section, argue for using a blockchain that does not provide privacy for default
+- Discuss the privacy concerns towards the "store of value" and "medium of exchange" property of bitcoin.
+
+- considering the value of privacy that was discussed in first section, argue for using a blockchain that does not provide privacy by default
+
+- What is BIP 37, why was it problematic? How was/can the problems (be) addressed?
 
 - How does receiver/sender anonymity compare in bitcoin and lightning?
 
@@ -61,6 +66,23 @@ TODO: KYC and transaction timing and amount knowledge
 
 - Do 'unanounced channels' in lightningn network provide better 
 
-- Using taproot transactions provide better privacy guarantees (TODO: WHY) to users. Is this true in practice?
+- Does using taproot transactions (instead of segwit) provide better privacy to users? Is this true in practice?
+
+- Consider the case of a "privacy nihilist" what are the worst practices an individual can follow to obtain the least amount of privacy for themselves and their transaction parties?
+
 
 TODO: privacy and security are not always alligned, look at federated structures that provide better privacy but consideres a different security model. threat model is useful for prioritication of what is more important and what risk is more reasonable to take
+  RBF, CPFP
+
+## other resources
+
+[Link Probability](https://gist.github.com/LaurentMT/d361bca6dc52868573a2)
+
+[Entropy of a transaction](https://gist.github.com/LaurentMT/e758767ca4038ac40aaf)
+
+
+
+https://github.com/achow101/wallet-fingerprinting
+  
+https://b10c.me/observations/
+  

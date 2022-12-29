@@ -1,16 +1,11 @@
-<!-- # introspection
-
-why do you care about bitcoin?
-                        privacy? -->
-
-
 ## Tips for question formulation
 
 
 
-The best discussion questions explore a trade-off. They have no correct answer but force you to consider each side. Anything that has a specific answer isn’t usually that useful 
+The best discussion questions are aimed to explore a trade-off. They have no correct answers but force you to consider each side. Anything that has a specific answer isn’t usually that useful 
 -> I still see value in covering main vocabulary/terms using specific direct questions, they are not really aimed towards discussion but more to make sure everyone is on the same page
 
+I also included some "memes". Memes are cultural artifacts that have survived the test of time in the domain of ideas. Thinking deeply about them could provide insights to the fundamental tensions between different ideas and the position they take.
 
 ## considerations
 
@@ -41,6 +36,8 @@ a section on attacking bitcoin privacy?
 
 [cleaned and condensed version](https://gist.github.com/nothingmuch/0ba650fcca7e8ce5181e56526dfdd0eb)
 
+[bitcoinplusplus talk]()
+
 
 [indexed bitcoin resources](https://btc-engine-1-react-demo-ui.netlify.app)
 
@@ -59,6 +56,11 @@ https://6102bitcoin.com/blog/digital-privacy/
 https://bitcoiner.guide/whirlpool/
 
 https://bitcoiner.guide/privacy/
+
+
+TODOS:
+
+talk to some CTF people for inputs
 
 
 
