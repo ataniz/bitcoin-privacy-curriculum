@@ -6,39 +6,30 @@ This section introduces the technologies that are used to improve privacy and se
 
 ![](https://upload.wikimedia.org/wikipedia/en/f/f8/Internet_dog.jpg)
 
-[moral landscape of cryptographic work](https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) & [presentation](https://www.youtube.com/watch?v=1ReIILmcLpk)
-
-[bitcoin is worse is better](https://www.gwern.net/Bitcoin-is-Worse-is-Better)
-
-<!-- crypto for security and crypto for privacy is a sound seperation imo -->
-[what happened to the crypto dream pt1](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part1.pdf) & [pt2](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part2.pdf)
+| source                                                                                                                                                                                                | status |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [moral landscape of cryptographic work](https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) & [presentation](https://www.youtube.com/watch?v=1ReIILmcLpk)                                        |        |
+| [bitcoin is worse is better](https://www.gwern.net/Bitcoin-is-Worse-is-Better)                                                                                                                        |        |
+| [what happened to the crypto dream pt1](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part1.pdf) & [pt2](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part2.pdf) |        |
   
-
-
-
 ## Crypto
 
-[Steganography - Hiding the act of hiding](https://en.wikipedia.org/wiki/Steganography)
-
-[encryption primer](https://www.cs.princeton.edu/~felten/encryption_primer.pdf)
-
-[Symmetric Cryptography](https://en.wikipedia.org/w/index.php?title=Symmetric-key_algorithm)
-
-[Public Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
-
-[zero knowledge proofs](https://www.esat.kuleuven.be/cosic/blog/co6gc-introduction-to-zero-knowledge-proofs-1/) (wikipedia page is also good)
-
-[validity rollups](https://github.com/john-light/validity-rollups/blob/main/validity_rollups_on_bitcoin.md#-section-0-the-history-and-prehistory-of-validity-rollups-) // provides a bridge to bitcoin
-
-[what are pederson commitments](https://crypto.stackexchange.com/questions/64437/what-is-a-pedersen-commitment)
-
-[blind signatures](https://www.wikiwand.com/en/Blind_signature#References)
-
-moon math 🤷🏻‍♂️
-
-[eliptic curve](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+| source                                                                                                                                                                                                 | status |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| [Steganography - Hiding the act of hiding](https://en.wikipedia.org/wiki/Steganography)                                                                                                                |        |
+| [encryption primer](https://www.cs.princeton.edu/~felten/encryption_primer.pdf)                                                                                                                        |        |
+| [Symmetric Cryptography](https://en.wikipedia.org/w/index.php?title=Symmetric-key_algorithm)                                                                                                           |        |
+| [Public Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)                                                                                                                       |        |
+| [zero knowledge proofs](https://www.esat.kuleuven.be/cosic/blog/co6gc-introduction-to-zero-knowledge-proofs-1/) (wikipedia page is also good)                                                          |        |
+| [validity rollups](https://github.com/john-light/validity-rollups/blob/main/validity_rollups_on_bitcoin.md#-section-0-the-history-and-prehistory-of-validity-rollups-) // provides a bridge to bitcoin |        |
+| [what are pederson commitments](https://crypto.stackexchange.com/questions/64437/what-is-a-pedersen-commitment)                                                                                        |        |
+| [blind signatures](https://www.wikiwand.com/en/Blind_signature#References)                                                                                                                             |        |
+| [eliptic curve](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)                                                                                          |        |
+| moon math 🤷🏻‍♂️                                                                                                                                                                                            |        |
 
 ## networking
+
+[HTTP & HTTPS](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/)
 
 [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)
 
@@ -52,7 +43,7 @@ moon math 🤷🏻‍♂️
 
 ## keywords
 
-cryptography, symmetric cryptography, private key cryptography, morality, Tor, I2P
+        cryptography, symmetric cryptography, private key cryptography, morality, Tor, I2P, HTTPS
 
 ## discussion questions
 
@@ -61,6 +52,8 @@ cryptography, symmetric cryptography, private key cryptography, morality, Tor, I
 - What are the aims of information security?
 
 - What are the aims of privacy enhancing technologies?
+
+- Consider spearfishing attacks, how are they different from fishing attacks, how do they feed from information leaks?
 
 - In "what happened to the crypto dream?" author concludes that the cypherpunk dream is not materialized, make the case for and against the authors position.
 
@@ -112,7 +105,7 @@ cryptography, symmetric cryptography, private key cryptography, morality, Tor, I
 
 [Pederson commitments](https://link.springer.com/content/pdf/10.1007/3-540-46766-1_9.pdf#page=3)
 
-## potentially relevant expolarations
+## potentially relevant explorations
 
 self-hosting vs cloud
 
@@ -126,12 +119,6 @@ good privacy practices
 
 social engineering
     (spear) fishing
-
-Practice-Oriented Provable Security and the Social Construction of Cryptography. this idea could be connected with various federation designs where the security model relies on social trust and reputation
-    
-https://cseweb.ucsd.edu/~mihir/papers/isw-pops.pdf
-
-https://www.cs.ucdavis.edu/~rogaway/papers/cc.pdf
 
 
 encryption - probably better to just leave resources for the interested 
@@ -152,13 +139,13 @@ attacks on encryption (not so relevant tbh)
 - chosen ciphertext attack
 
 
-[practical cryptography book](https://cryptobook.nakov.com/)
+[practical cryptography book - crypto for devs](https://cryptobook.nakov.com/)
 
-[crypto hack](https://cryptohack.org/)
+[crypto hack - learning via coding](https://cryptohack.org/)
 
 ## awesome resources
 
-https://github.com/pFarb/awesome-crypto-papers#introducing-people-to-data-security-and-cryptography
+https://github.com/pFarb/awesome-crypto-papers
 
 https://github.com/sobolevn/awesome-cryptography
 

@@ -6,26 +6,21 @@ of not having it. Personal aspect, social ascpect and time aspect
 
 
 
-
-[A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)
-
-[Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)
-
-[Doxing](https://en.wikipedia.org/wiki/Doxing)
-
-[bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)
-
-[Fungibility](https://en.bitcoin.it/wiki/Fungibility)
-
-[Mobile Device Identification via Sensor Fingerprinting](https://arxiv.org/pdf/1408.1416.pdf)
-
-[Online tracking analysis](https://www.cs.princeton.edu/~arvindn/publications/OpenWPM_1_million_site_tracking_measurement.pdf)
-
-[Digital Panopticon](https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-human-right-2ab6dae77433)
+| source                                                                                                                         | status                  |
+| ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)                                                 | :ballot_box_with_check: |
+| [Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)                                          | :ballot_box_with_check: |
+| [Doxing](https://en.wikipedia.org/wiki/Doxing)                                                                                 | :grey_question:         |
+| [bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)                                                                          | :ballot_box_with_check: |
+| [Fungibility](https://en.bitcoin.it/wiki/Fungibility)                                                                          | :ballot_box_with_check: |
+| [Digital Panopticon](https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-human-right-2ab6dae77433)   | ❔                       |
+| [Mobile Device Identification via Sensor Fingerprinting](https://arxiv.org/pdf/1408.1416.pdf)                                  |                         |
+| [Online tracking analysis](https://www.cs.princeton.edu/~arvindn/publications/OpenWPM_1_million_site_tracking_measurement.pdf) |                         |
+| [Global surveillance disclosures](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present))        |                         |
 
 ## keywords
 
-privacy, anonymity, secrecy, security, freedom, fungibility, censorship
+    privacy, anonymity, secrecy, security, freedom, fungibility, censorship
 
 
 ## discussion questions
@@ -83,7 +78,6 @@ privacy, anonymity, secrecy, security, freedom, fungibility, censorship
 
 https://www.privateinternetaccess.com/blog/internet-freedom-around-the-world-in-50-stats/
 
-
 [Cyperpunks write code (reason documentry)](https://www.youtube.com/watch?v=9vM0oIEhMag)
 
 https://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf
@@ -95,27 +89,17 @@ https://www.eff.org/cyberspace-independence
 [Princlipes of Bitcoin](https://en.bitcoin.it/wiki/Principles_of_Bitcoin) //remove? use whitepaper instead
 
 > No one shall be subjected to arbitrary inter­fer­ence with his privacy, family, home or corre­spon­dence, nor to attacks upon his honour and reputa­tion. Everyone has the right to the protec­tion of the law against such inter­fer­ence or attacks.
-
 \- Article 12, United Nations Decla­ra­tion of Human Rights
-
-https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
 
 
 > The foundation is being laid for a dossier society, in which computers could be used to infer individuals’ life-styles, habits, whereabouts, and associations from data collected in ordinary consumer transactions. Uncertainty about whether data will remain secure against abuse by those maintaining or tapping it can have a `chilling effect,’ causing people to alter their observable activities. 
 \- David Chaum: Security without Identification: transaction systems to make big brother obsolete. CACM 1985
 
-
-- What is an "open society"? -->
->"a society in which an individual is confronted with personal decisions" 
-  \-popper
+>"open society a society in which an individual is confronted with personal decisions" 
+\-popper
 
 >    “Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say.”
+\- Edward Snowden
 
-  \- Edward Snowden
-
-
->    Privacy is neces­sary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selec­tively reveal oneself to the world.
-
-  \-    Eric Hughes
 
 [^1]: While access control and authentication protections can safeguard against direct disclosures, they do not address disclosures based on inferences that can be drawn from released data.
