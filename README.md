@@ -22,7 +22,7 @@ This is a privacy focused bitcoin curriculum. Material is currently divided in 5
 # additional resources
 
 
-[original writeup - nothingmuch](https://gist.github.com/adamjonas/bc6302233d8278daa100b34e789993280)
+[original writeup - nothingmuch](https://gist.github.com/adamjonas/bc6302233d8278daa100b34e78999328)
 
 [Des Femmes - nothingmuch](https://gist.github.com/nothingmuch/0ba650fcca7e8ce5181e56526dfdd0eb)
 
@@ -30,7 +30,7 @@ This is a privacy focused bitcoin curriculum. Material is currently divided in 5
 
 [indexed bitcoin resources](https://btc-engine-1-react-demo-ui.netlify.app)
 
-[bitcoin privacy wiki](https://en.bitcoin.it/wiki/Main_Page)
+[bitcoin wiki page on privacy](https://en.bitcoin.it/wiki/Privacy)
 
 [chaincode seminars](https://chaincode.gitbook.io/seminars/)
 
