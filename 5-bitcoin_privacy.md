@@ -14,21 +14,19 @@ This section disscusses tools and practices for measuring and improving privacy 
 | https://bitcoinops.org/en/topics/coinjoin/                                                                                                                       |        |
 | [gmaxwell coinjoin](https://bitcointalk.org/index.php?topic=279249.0)                                                                                            |        |
 | [WabiSabi](https://github.com/zkSNACKs/WabiSabi)                                                                                                                 |        |
-| [payjoin - waxwing](https://diyhpl.us/wiki/transcripts/london-bitcoin-devs/2020-05-05-socratic-seminar-payjoins/)                                                |        |
+| [payjoin - London Bitcoin Devs](https://diyhpl.us/wiki/transcripts/london-bitcoin-devs/2020-05-05-socratic-seminar-payjoins/)                                    |        |
 | [payjoin blogpost - waxwing](https://reyify.com/blog/payjoin)                                                                                                    |
-| [joinmarket](https://www.youtube.com/watch?v=hJZnkm0jW5E)                                                                                                        |        |
+| [joinmarket - London Bitcoin Devs](https://www.youtube.com/watch?v=hJZnkm0jW5E) [github](https://github.com/JoinMarket-Org/joinmarket-clientserver)              |        |
 | [Anonymous CoinJoin Transactions with Arbitrary Values](https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf)               |        |
-| [coin selection](https://btctranscripts.com/scalingbitcoin/tokyo-2018/edgedevplusplus/coin-selection/)                                                           |        |
+| [coin selection - Kalle Alm](https://btctranscripts.com/scalingbitcoin/tokyo-2018/edgedevplusplus/coin-selection/)                                               |        |
 | [coinswap](https://bitcoinops.org/en/topics/coinswap/)                                                                                                           |        |
 | [Sidechains](https://blockstream.com/sidechains.pdf) [see also](https://github.com/john-light/sidechains)                                                        |        |
 | [rollups - lighcoin](https://github.com/john-light/validity-rollups/blob/main/validity_rollups_on_bitcoin.md)                                                    |        |
-| [chaumian ecash](https://www.youtube.com/watch?v=VwMzNE1D3so)                                                                                                    |        |
+| [chaumian ecash - waxwing](https://www.youtube.com/watch?v=VwMzNE1D3so)                                                                                          |        |
 | (miner privacy)[P2Pools](https://github.com/bitcoinbook/bitcoinbook/blob/77b91b1949e2c03a36c395586a44dac20ec41533/ch10.asciidoc#peer-to-peer-mining-pool-p2pool) |        |
 | [fedimint trade-offs](https://fedimint.org/docs/category/trade-offs)                                                                                             |        |
 
 ## discussion questions
-
-- What are the challenges for setting up a coinjoin?
 
 - what are the benefits of running a full node and interacting with the network through this node?  
 
@@ -44,15 +42,20 @@ This section disscusses tools and practices for measuring and improving privacy 
 
 - Compare two join operations, coinjoin and payjoin. How do they differ?
 
-- what are some challenges related to coinjoin operations? (liquidity, consensus, DoS vector)
+- TODO: payjoin attacks on receiver privacy
+
+- what are some challenges related to coinjoin operations? (liquidity, consensus/coordination, DoS vector)
 
 - What are some anonymous ways of acquiring bitcoins?
 
-- Do BIP 57 payment addresses improve users privacy? Considering that payment addresses are also unique addresses, how are they better than using on-chain addresses?
+- Do BIP 57 payment addresses improve users privacy? How are they better than using on-chain addresses? Considering that payment addresses are also unique addresses how can they be used by an adversary for deanonymization attacks?
 
 - what are P2Pools what advantages they provide to miners, what are the drawbacks? Could they provide better privacy?
 
 ## other things to be covered
+
+[Steganographic Transactions, Deception Tools and Asymmetric Games](https://gist.github.com/LaurentMT/c38794ef6a62b2f8c76d7f694a3e7777)
+all random or all same
 
 [nopara - P2EP](https://nopara73.medium.com/pay-to-endpoint-56eb05d3cac6)
 

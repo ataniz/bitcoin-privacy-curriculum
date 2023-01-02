@@ -24,6 +24,7 @@ context to the discussion.
 | [eliptic curve introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)                                                                            |        |
 | moon math 🤷🏻‍♂️                                                                                                                                                                                           |        |
 | treshhold signutures - MPC wallets                                                                                                                                                                    |        |
+| [anonymous credentials](https://blog.dock.io/anonymous-credentials/)                                                                                                                                  |        |
 | **networking**                                                                                                                                                                                        |        |
 | [HTTP & HTTPS](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/)                                                                                                                       |        |
 | [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)                                                                                                                                          |        |
@@ -67,6 +68,8 @@ context to the discussion.
 - TODO: Tor  CAPTCHAs and identity problem in the internet
 
 - what does "No security through obscurity" mean? Why is secrecy not considered a valid security model on its own?
+
+- What are "anonymous credentials"? What is their designed purpose?
 ## relevant material
 
 
@@ -135,6 +138,7 @@ attacks on encryption (not so relevant tbh)
 
 [crypto hack - learning via coding](https://cryptohack.org/)
 
+https://www.freehaven.net/anonbib/cache/cl01a.pdf
 ## awesome resources
 
 https://github.com/pFarb/awesome-crypto-papers

@@ -56,7 +56,7 @@ of not having it. Personal aspect, social ascpect and time aspect
 
 - What are the implications of lack of privacy for the individual and for the society?
 
-- What is fungibility? Why is it a valued property of money?
+- What is fungibility? Why is it a valued property of money? what other properties would be desirable?
   <!-- - What are the prerequisites for censorship? -->
 
 - Is Bitcoin fungible? How does fungibility relate to censorship resistance?
