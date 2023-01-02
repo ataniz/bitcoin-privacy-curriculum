@@ -9,35 +9,25 @@ This section introduces the technologies that are used to improve privacy and se
 | source                                                                                                                                                                                                | status |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | [moral landscape of cryptographic work](https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) & [presentation](https://www.youtube.com/watch?v=1ReIILmcLpk)                                        |        |
-| [bitcoin is worse is better](https://www.gwern.net/Bitcoin-is-Worse-is-Better)                                                                                                                        |        |
 | [what happened to the crypto dream pt1](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part1.pdf) & [pt2](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part2.pdf) |        |
-  
-## Crypto
-
-| source                                                                                                                                                                                                 | status |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
-| [Steganography - Hiding the act of hiding](https://en.wikipedia.org/wiki/Steganography)                                                                                                                |        |
-| [encryption primer](https://www.cs.princeton.edu/~felten/encryption_primer.pdf)                                                                                                                        |        |
-| [Symmetric Cryptography](https://en.wikipedia.org/w/index.php?title=Symmetric-key_algorithm)                                                                                                           |        |
-| [Public Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)                                                                                                                       |        |
-| [zero knowledge proofs](https://www.esat.kuleuven.be/cosic/blog/co6gc-introduction-to-zero-knowledge-proofs-1/) (wikipedia page is also good)                                                          |        |
-| [validity rollups](https://github.com/john-light/validity-rollups/blob/main/validity_rollups_on_bitcoin.md#-section-0-the-history-and-prehistory-of-validity-rollups-) // provides a bridge to bitcoin |        |
-| [what are pederson commitments](https://crypto.stackexchange.com/questions/64437/what-is-a-pedersen-commitment)                                                                                        |        |
-| [blind signatures](https://www.wikiwand.com/en/Blind_signature#References)                                                                                                                             |        |
-| [eliptic curve](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)                                                                                          |        |
-| moon math 🤷🏻‍♂️                                                                                                                                                                                            |        |
-
-## networking
-
-[HTTP & HTTPS](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/)
-
-[VPN](https://en.wikipedia.org/wiki/Virtual_private_network)
-
-[Tor network](https://en.wikipedia.org/wiki/Tor_(network))
-    onion routing
-
-[I2P network](https://en.wikipedia.org/wiki/I2P)
-    garlic routing
+| **Crypto**                                                                                                                                                                                            |        |
+| [bitcoin is worse is better](https://www.gwern.net/Bitcoin-is-Worse-is-Better)                                                                                                                        |        |
+| [Steganography - Hiding the act of hiding](https://en.wikipedia.org/wiki/Steganography)                                                                                                               |        |
+| [encryption primer](https://www.cs.princeton.edu/~felten/encryption_primer.pdf)                                                                                                                       |        |
+| [Symmetric Cryptography](https://en.wikipedia.org/w/index.php?title=Symmetric-key_algorithm)                                                                                                          |        |
+| [Public Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)                                                                                                                      |        |
+| [zero knowledge proofs introduction](https://www.esat.kuleuven.be/cosic/blog/co6gc-introduction-to-zero-knowledge-proofs-1/)                                                                          |        |
+| [validity rollups - lightcoin](https://github.com/john-light/validity-rollups/blob/main/validity_rollups_on_bitcoin.md#-section-0-the-history-and-prehistory-of-validity-rollups-)                    |        |
+| [what are pederson commitments?](https://crypto.stackexchange.com/questions/64437/what-is-a-pedersen-commitment)                                                                                      |        |
+| [blind signatures - David Chaum](https://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF)                                                                    |        |
+| [eliptic curve introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)                                                                            |        |
+| moon math 🤷🏻‍♂️                                                                                                                                                                                           |        |
+| treshhold signutures - MPC wallets                                                                                                                                                                    |        |
+| **networking**                                                                                                                                                                                        |        |
+| [HTTP & HTTPS](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/)                                                                                                                       |        |
+| [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)                                                                                                                                          |        |
+| [Tor network](https://en.wikipedia.org/wiki/Tor_(network))                                                                                                                                            |        |
+| [I2P network](https://en.wikipedia.org/wiki/I2P)                                                                                                                                                      |        |
 
 
 
@@ -47,7 +37,7 @@ This section introduces the technologies that are used to improve privacy and se
 
 ## discussion questions
 
-- What are [cryptographic primitives](https://en.wikipedia.org/wiki/Cryptographic_primitive), which ones bitcoin use and for what purphose
+- What are [cryptographic primitives](https://en.wikipedia.org/wiki/Cryptographic_primitive), which ones are used in bitcoin and for what purpose?
 
 - What are the aims of information security?
 
@@ -69,22 +59,24 @@ This section introduces the technologies that are used to improve privacy and se
 
 - VPN services are generally marketed as effective tools for privacy and circumventing censorship. How do they differ form networks such as I2P or Tor? 
 
-- what are some main differences between I2P and Tor network? How do they differ in terms of scalability?
+- what are some main differences between I2P and Tor network? How do they differ in terms of scalability? (also garlic vs onion)
 
 - Why are most messaging and emailing apps still don't support basic encryption?
 
+- TODO: Tor  CAPTCHAs and identity problem in the internet
+
+- what does "No security through obscurity" mean? Why is secrecy not considered a valid security model on its own?
 ## relevant material
+
 
 
 >"Don't trust, verify"
 
-
->"No security by obscurity"
-
+>"No security through obscurity"
 
 >a cryptosystem should be secure even if everything about the system, except the key, is public knowledge.
+
 \-“Kerckhoff's Principle”
-    -> open source
 
 >The universe believes in encryption. [..] Strong cryptography can resist an unlimited application of violence. No amount of coercive force will ever solve a math problem.
     [quote from Julian Assange](https://cryptome.org/2012/12/assange-crypto-arms.htm)
@@ -99,7 +91,6 @@ This section introduces the technologies that are used to improve privacy and se
 
 
 [funny article I came across](https://medium.com/@brannondorsey/wi-fi-is-broken-3f6054210fa5)
-
 
 [Original? ZK paper](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Zero%20Knowledge/Proofs_That_Yield_Nothing_But_Their_Validity_or_All_Languages_in_NP_Have_Zero-Knowledge_Proof_Systems.pdf)
 

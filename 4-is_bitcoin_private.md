@@ -8,26 +8,23 @@ This section analyses patential identifiers and information users leak as they i
 
 | source                                                                                                                             | status |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| node related                                                                                                                       | ------ |
+| **node related**                                                                                                                   | ------ |
 | [transaction rebroadcasting](https://www.youtube.com/watch?v=v4TXfwwz_VI)                                                          |        |
 | [Map of the Bitcoin Network](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3)                               |        |
 | [BIP 37 proablems](https://en.bitcoin.it/wiki/BIP37_privacy_problems)                                                              |        |
 | [Client-side block filtering](https://en.bitcoin.it/wiki/Client-side_block_filtering)                                              |        |
 | [Attacks on privacy (blockchain)](https://en.bitcoin.it/wiki/Privacy#Blockchain_attacks_on_privacy)                                |        |
-| Wallet related                                                                                                                     | ------ |
+| **Wallet related**                                                                                                                 | ------ |
 | [Bitcoin Script](https://en.bitcoin.it/wiki/Script)                                                                                |        |
 | [Bitcoin Transactions](https://en.bitcoin.it/wiki/Transaction)                                                                     |        |
 | [mastering bitcoin transactions](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc)                            |        |
 | [mastering bitcoin advanced transactions (multisig segwit)](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc) |        |
-| external information                                                                                                               | ------ |
+| **external information**                                                                                                           | ------ |
 | [Attacks on privacy (non-blockchain)](https://en.bitcoin.it/wiki/Privacy#Non-blockchain_attacks_on_privacy)                        |        |
-| other                                                                                                                              |        |
-|                                                                                                                                    |        |
-
-
-| [Privacy on Lightning](https://github.com/lnbook/lnbook/blob/develop/16_security_privacy_ln.asciidoc)       |        |
-| [Miner Privacy](https://braiins.com/blog/data-privacy-and-security-for-bitcoin-miners)                      |        |
-| ['taint'](https://blockfi.com/prohibited-uses)                                                              |        |
+| **other**                                                                                                                          |        |
+| [Privacy on Lightning](https://github.com/lnbook/lnbook/blob/develop/16_security_privacy_ln.asciidoc)                              |        |
+| [Miner Privacy](https://braiins.com/blog/data-privacy-and-security-for-bitcoin-miners)                                             |        |
+| ['taint'](https://blockfi.com/prohibited-uses)                                                                                     |        |
 
 
 
@@ -45,7 +42,7 @@ This section analyses patential identifiers and information users leak as they i
 
 - What are federated structures (in bitcoin & lightning), what are the benefits and drawbacks for users?
 
-- Do 'unanounced channels' in lightningn network provide better privacy in reality?
+- Do 'unanounced channels' in lightning network provide better privacy in reality?
 
 - Does using taproot transactions (instead of segwit) provide better privacy to users and why? Is this true in practice?
 
@@ -58,25 +55,23 @@ This section analyses patential identifiers and information users leak as they i
 - Looking at the idea of 'taint', do you think it is an enforceable mechanism for censoring certain UTXOs?
 
 
-  RBF, CPFP
 
 ## other resources
 
+RBF, CPFP
+
 bip69 input output ordering
 
+nodes don't support encrypted p2p communications, 
 
-TODO: coin selection
-
-TODO: chain graph heuristics
+TODO: txgraph heuristics
 
 TODO: KYC and transaction timing and amount knowledge
 
-[Link Probability](https://gist.github.com/LaurentMT/d361bca6dc52868573a2)
-
-[Entropy of a transaction](https://gist.github.com/LaurentMT/e758767ca4038ac40aaf)
+[Link Probability](https://gist.github.com/LaurentMT/d361bca6dc52868573a2) & [Entropy of a transaction](https://gist.github.com/LaurentMT/e758767ca4038ac40aaf)
 
 
-https://github.com/achow101/wallet-fingerprinting
+[wallet fingerprinting](https://github.com/achow101/wallet-fingerprinting) (similar to browser fingerprinting)
   
 https://b10c.me/observations/
   

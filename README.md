@@ -1,9 +1,8 @@
-## notes and considerations
 
-The best discussion questions are aimed to explore a trade-off. They have no correct answers but force you to consider each side. Anything that has a specific answer isn’t usually that useful 
--> I still see value in covering main vocabulary/terms using specific direct questions, they are not really aimed towards discussion but more to make sure everyone is on the same page
+## Hi 👋
 
-I also included some "memes". Memes are cultural artifacts that have survived the test of time in the domain of ideas. Thinking deeply about them could provide insights to the fundamental tensions between different ideas and the position they take.
+This is a privacy focused bitcoin curriculum. Material is currently divided in 5 sections and still under development. Each section includes list of curated resources to be digested by the participants. Sections also include supporting material like programming exercises, tools, quotes, news articles  etc. Discussion questions are included in the sections as well. Most of the questions are aimed to explore trade-offs, some are designed to assess one's understanding of the concepts and vocabulary and many don't really have right answers. Therefore, fell free to philosophize, go off on tangents, contradict yourselves and play the devil's advocate. Participants are also encouraged to produce their own questions from the material and suggest additional resources and topics. For any inquiries, feedback or suggestions, you can contact me at iam[at]ataniz.com
+
 
 # sections
 
@@ -23,15 +22,17 @@ I also included some "memes". Memes are cultural artifacts that have survived th
 # additional resources
 
 
-[nothingmuch | original writeup](https://gist.github.com/adamjonas/bc6302233d8278daa100b34e789993280)
+[original writeup - nothingmuch](https://gist.github.com/adamjonas/bc6302233d8278daa100b34e789993280)
 
-[nothingmuch | cleaned and condensed version](https://gist.github.com/nothingmuch/0ba650fcca7e8ce5181e56526dfdd0eb)
+[Des Femmes - nothingmuch](https://gist.github.com/nothingmuch/0ba650fcca7e8ce5181e56526dfdd0eb)
 
-[nothingmuch | bitcoinplusplus talk](https://github.com/nothingmuch/btcplusplus_cdmx/blob/main/talk.org)
+[bitcoinplusplus - nothingmuch](https://github.com/nothingmuch/btcplusplus_cdmx/blob/main/talk.org)
 
 [indexed bitcoin resources](https://btc-engine-1-react-demo-ui.netlify.app)
 
 [bitcoin privacy wiki](https://en.bitcoin.it/wiki/Main_Page)
+
+[chaincode seminars](https://chaincode.gitbook.io/seminars/)
 
 https://www.swanbitcoin.com/bitcoin-privacy-best-practices/
 
@@ -44,9 +45,8 @@ https://bitcoiner.guide/privacy/
 
 TODOS:
 
-present the material at a meetup and ask for feedback
-
-talk to some CTF people for inputs
+- [x] present the material at a meetup and ask for feedback
+- [ ] talk to some CTF people for inputs
 
 
 
