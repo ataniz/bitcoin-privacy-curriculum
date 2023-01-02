@@ -1,5 +1,6 @@
 ```
-This section introduces the technologies that are used to improve privacy and security of the information. It also aims to provide a social and historical context to the discussion.
+This section introduces the technologies that are used to improve privacy and security of the information. It also aims to provide a social and historical
+context to the discussion.
 
 ```
 ## Protecting Privacy

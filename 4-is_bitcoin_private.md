@@ -1,5 +1,6 @@
 ```
-This section analyses patential identifiers and information users leak as they interact with the bitcoin network, mainly thorugh wallet and node behavior. It also introduces meatspace, non-blockcahin, dimenstion of the problem for example KYC and custodial scenarios, blockexplorers etc
+This section analyses patential identifiers and information users leak as they interact with the bitcoin network, mainly thorugh wallet and node behavior.
+It also introduces meatspace, non-blockcahin, dimenstion of the problem for example KYC and custodial scenarios, blockexplorers, online unit conversion etc
 
 ```
 # Is Bitcoin Private?

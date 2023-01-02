@@ -1,5 +1,6 @@
 ```
-This section aims to introduce quantifiable metrics and methods for evaluating/modeling privacy. These metrics and methods will be later applied to bitcoin context. Section also consideres the neccesity of usability for privacy technologies and argues that it is not a single player game. 
+This section aims to introduce quantifiable metrics and methods for evaluating/modeling privacy. These metrics and methods will be later applied to
+bitcoin context. Section also consideres the neccesity of usability for privacy technologies and argues that it is not a single player game. 
 
 ```
 
@@ -22,7 +23,6 @@ This section aims to introduce quantifiable metrics and methods for evaluating/m
         disclosure, k anonymity, quasi identifier, inference, entophy, threath models
 
 ## discussion questions
----
 
 - consider the effectiveness of deanonymization attacks (as demonstrated in k-anonymity paper) and availability of external data (whether from data leaks, sales or social media) how does one make the case for the publication of information such as medical records, housing, usage data etc. ? (also consider the value it provides, on can consider methods of anonymizing data as well as necessity for open consent for the release)
 

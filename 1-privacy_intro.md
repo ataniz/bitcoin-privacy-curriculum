@@ -6,17 +6,17 @@ of not having it. Personal aspect, social ascpect and time aspect
 
 
 
-| source                                                                                                                         | status                  |
-| ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
-| [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)                                                 | :ballot_box_with_check: |
-| [Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)                                          | :ballot_box_with_check: |
-| [Doxing](https://en.wikipedia.org/wiki/Doxing)                                                                                 | :grey_question:         |
-| [bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)                                                                          | :ballot_box_with_check: |
-| [Fungibility](https://en.bitcoin.it/wiki/Fungibility)                                                                          | :ballot_box_with_check: |
-| [Digital Panopticon](https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-human-right-2ab6dae77433)   | ❔                       |
-| [Mobile Device Identification via Sensor Fingerprinting](https://arxiv.org/pdf/1408.1416.pdf)                                  |                         |
-| [Online tracking analysis](https://www.cs.princeton.edu/~arvindn/publications/OpenWPM_1_million_site_tracking_measurement.pdf) |                         |
-| [Global surveillance disclosures](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present))        |                         |
+| source                                                                                                                         | status |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)                                                 |        |
+| [Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)                                          |        |
+| [Doxing](https://en.wikipedia.org/wiki/Doxing)                                                                                 |        |
+| [bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)                                                                          |        |
+| [Fungibility](https://en.bitcoin.it/wiki/Fungibility)                                                                          |        |
+| [Digital Panopticon](https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-human-right-2ab6dae77433)   |        |
+| [Mobile Device Identification via Sensor Fingerprinting](https://arxiv.org/pdf/1408.1416.pdf)                                  |        |
+| [Online tracking analysis](https://www.cs.princeton.edu/~arvindn/publications/OpenWPM_1_million_site_tracking_measurement.pdf) |        |
+| [Global surveillance disclosures](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present))        |        |
 
 ## keywords
 
@@ -24,7 +24,6 @@ of not having it. Personal aspect, social ascpect and time aspect
 
 
 ## discussion questions
---- 
 
 - who are these cypherpunks? what are their values?
 
