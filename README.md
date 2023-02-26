@@ -59,3 +59,11 @@ TODOS:
   - lightning privacy
   - privacy related BIPs 
   
+
+https://bitcoinops.org/en/topics/musig/
+https://jimmysong.github.io/taproot-multisig
+
+  Multisig
+  compare the traditional, taproot
+
+  jimmy's programming bitcoin for crytography

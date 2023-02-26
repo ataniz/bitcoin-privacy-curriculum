@@ -23,49 +23,54 @@ of not having it. Personal aspect, social ascpect and time aspect
     privacy, anonymity, secrecy, security, freedom, fungibility, censorship
 
 
-## discussion questions
+## Discussion Questions
 
-- who are these cypherpunks? what are their values?
+- Should individuals be allowed to trade their privacy for convenience or other benefits? 
 
-- how confident are you, that the information you provide to third parties won't be shared/sold/leaked?
+- Who are the cypherpunks and what values do they hold?
+
+- How confident are you that your information provided to third parties will not be shared, sold or leaked?
+  - Should companies be held responsible for protecting user privacy? How?
 
 - Should individuals have the power to determine for themselves when, how and for what purpose their personal information is handled? How can this power be claimed where replication of such information is so cheap and demand is so high?
 
-- how does anonymity relate to privacy?
+- How is anonymity related to privacy?
   
-- Is privacy relevant for bitcoin? why?
+- What is the significance of privacy in the context of Bitcoin?
 
-- If you don't have [anything to hide](https://en.wikipedia.org/wiki/Nothing_to_hide_argument), why do you care about privacy?
+- If you don't have [anything to hide](https://en.wikipedia.org/wiki/Nothing_to_hide_argument), why would you care about privacy?
 
-- Is "security as a collective goal" a valid reason to violate "individuals privacy"? 
+- Is "security as a collective goal" a valid reason to violate individual privacy? 
+  - Are there situations where privacy should be overridden in the interest of public safety? How do we determine when this is necessary?
 
-- Is privacy different from secrecy? what is the difference?
+- What is the difference between privacy and secrecy?
   
-- Could one attain privacy only by oneself? Is it possible to talk about anonymity without a "crowd"? 
+- Can privacy be achieved by a single individual? Is anonymity possible without a crowd?
 
 - How does usability of technologies relate to privacy?
+  - How can technology be designed to prioritize user privacy while still providing necessary functionality and ease of use?
 
-- How does the focus of evaluating privacy differ from confidentiality (and information security)?[^1]
+- How does the concept of privacy differ from that of confidentiality and information security, and how do these distinctions affect the ways in which we evaluate and protect sensitive information?[^1]
 <!-- this question related to the differentiation of information security from privacy -->
 
 - What are the benefits and drawbacks of using one's real name, a pseudonym, or an anonymous identity? (consistency of the identity, difficulty of doxing, optional disclosure)
 
-- what are the differences between covert and overt actions? Why would be one preferable to the other?
+- What are the differences between covert and overt actions, and why might one be preferable to the other?
 
-- Is there any value in designing open, transparent system? Is privacy always a feature, is openness always a vulnerability?
+- Is there value in designing open, transparent systems? Is privacy always a feature and openness always a vulnerability?
 
-- What are the implications of lack of privacy for the individual and for the society?
+- What are the implications of a lack of privacy for individuals and society?
 
-- What is fungibility? Why is it a valued property of money? what other properties would be desirable?
+- What is fungibility, and why is it a valued property of money? What other properties are desirable?
   <!-- - What are the prerequisites for censorship? -->
 
 - Is Bitcoin fungible? How does fungibility relate to censorship resistance?
 
-- Is it possible to have a functioning free market without providing individuals with good privacy guarantees for their economic actions? How can economic actors compete while everyone can 'see each other hands'?
+- Is it possible to have a functioning free market without providing good privacy guarantees for individuals and their economic actions? How can economic actors compete while everyone can "see each other hands"?
 
 - Looking at crypto anarchist manifesto after 30 years. Are the projections of Tim May mapping to today's reality? 
 
-- why is there such a big market for user data? what are the use cases for such data?
+- Why is there such a large market for user data and what are some of the use cases for such data?
 
 
 
@@ -77,7 +82,7 @@ of not having it. Personal aspect, social ascpect and time aspect
 
 https://www.privateinternetaccess.com/blog/internet-freedom-around-the-world-in-50-stats/
 
-[Cyperpunks write code (reason documentry)](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[Cypherpunks write code (reason documentary)](https://www.youtube.com/watch?v=9vM0oIEhMag)
 
 https://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf
 
@@ -85,9 +90,9 @@ https://www.eff.org/cyberspace-independence
 
 [Privacy and Anonymity](https://www.privateinternetaccess.com/blog/how-does-privacy-differ-from-anonymity-and-why-are-both-important/) 
 
-[Princlipes of Bitcoin](https://en.bitcoin.it/wiki/Principles_of_Bitcoin) //remove? use whitepaper instead
+[Principles of Bitcoin](https://en.bitcoin.it/wiki/Principles_of_Bitcoin) //remove? use whitepaper instead
 
-> No one shall be subjected to arbitrary inter­fer­ence with his privacy, family, home or corre­spon­dence, nor to attacks upon his honour and reputa­tion. Everyone has the right to the protec­tion of the law against such inter­fer­ence or attacks.
+> No one shall be subjected to arbitrary inter­fer­ence with his privacy, family, home or corre­spon­dence, nor to attacks upon his honor and reputa­tion. Everyone has the right to the protec­tion of the law against such inter­fer­ence or attacks.
 \- Article 12, United Nations Decla­ra­tion of Human Rights
 
 
