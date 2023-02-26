@@ -22,7 +22,7 @@ This section disscusses tools and practices for measuring and improving privacy 
 | [coinswap](https://bitcoinops.org/en/topics/coinswap/)                                                                                                           |        |
 | [Sidechains](https://blockstream.com/sidechains.pdf) [see also](https://github.com/john-light/sidechains)                                                        |        |
 | [rollups - lighcoin](https://github.com/john-light/validity-rollups/blob/main/validity_rollups_on_bitcoin.md)                                                    |        |
-| [chaumian ecash - waxwing](https://www.youtube.com/watch?v=VwMzNE1D3so)                                                                                          |        |
+| [chaumian ecash - waxwing](https://www.youtube.com/watch?v=VwMzNE1D3so) & [gist](https://gist.github.com/AdamISZ/28c3475734becf031c9924f0b50d1bed)               |        |
 | (miner privacy)[P2Pools](https://github.com/bitcoinbook/bitcoinbook/blob/77b91b1949e2c03a36c395586a44dac20ec41533/ch10.asciidoc#peer-to-peer-mining-pool-p2pool) |        |
 | [fedimint trade-offs](https://fedimint.org/docs/category/trade-offs)                                                                                             |        |
 

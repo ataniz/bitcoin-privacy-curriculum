@@ -9,22 +9,20 @@ context to the discussion.
 
 | source                                                                                                                                                                                                | status |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [moral landscape of cryptographic work](https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) & [presentation](https://www.youtube.com/watch?v=1ReIILmcLpk)                                        |        |
-| [what happened to the crypto dream pt1](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part1.pdf) & [pt2](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part2.pdf) |        |
+| [Moral Landscape of Cryptographic Work](https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) & [presentation](https://www.youtube.com/watch?v=1ReIILmcLpk)                                        |        |
+| [What Happened to the Crypto Dream pt1](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part1.pdf) & [pt2](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part2.pdf) |        |
 | **Crypto**                                                                                                                                                                                            |        |
-| [bitcoin is worse is better](https://www.gwern.net/Bitcoin-is-Worse-is-Better)                                                                                                                        |        |
+| [Bitcoin is Worse is Better - gwern](https://www.gwern.net/Bitcoin-is-Worse-is-Better)                                                                                                                |        |
 | [Steganography - Hiding the act of hiding](https://en.wikipedia.org/wiki/Steganography)                                                                                                               |        |
-| [encryption primer](https://www.cs.princeton.edu/~felten/encryption_primer.pdf)                                                                                                                       |        |
-| [Symmetric Cryptography](https://en.wikipedia.org/w/index.php?title=Symmetric-key_algorithm)                                                                                                          |        |
-| [Public Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)                                                                                                                      |        |
+| [Nuts and Bolts of Encryption: A Primer for Policymakers](https://www.cs.princeton.edu/~felten/encryption_primer.pdf)                                                                                 |        |
+| [Symmetric Cryptography](https://en.wikipedia.org/w/index.php?title=Symmetric-key_algorithm) and [Public Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)                     |        |
 | [zero knowledge proofs introduction](https://www.esat.kuleuven.be/cosic/blog/co6gc-introduction-to-zero-knowledge-proofs-1/)                                                                          |        |
 | [validity rollups - lightcoin](https://github.com/john-light/validity-rollups/blob/main/validity_rollups_on_bitcoin.md#-section-0-the-history-and-prehistory-of-validity-rollups-)                    |        |
-| [what are pederson commitments?](https://crypto.stackexchange.com/questions/64437/what-is-a-pedersen-commitment)                                                                                      |        |
-| [blind signatures - David Chaum](https://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF)                                                                    |        |
+| [Blind Signatures - David Chaum](https://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF)                                                                    |        |
 | [eliptic curve introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)                                                                            |        |
 | moon math 🤷🏻‍♂️                                                                                                                                                                                           |        |
 | treshhold signutures - MPC wallets                                                                                                                                                                    |        |
-| [anonymous credentials](https://blog.dock.io/anonymous-credentials/)                                                                                                                                  |        |
+| [anonymous credentials - wikipedia](https://en.wikipedia.org/wiki/Digital_credential?oldformat=true)                                                                                                  |        |
 | **networking**                                                                                                                                                                                        |        |
 | [HTTP & HTTPS](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/)                                                                                                                       |        |
 | [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)                                                                                                                                          |        |
@@ -146,3 +144,7 @@ https://github.com/pFarb/awesome-crypto-papers
 https://github.com/sobolevn/awesome-cryptography
 
 https://eprint.iacr.org/
+
+[Zero Knowledge Proofs: Example with Pedersen Commitments in Monero](https://medium.com/coinmonks/zero-knowledge-proofs-um-what-a092f0ee9f28)
+
+[What are pederson commitments?](https://crypto.stackexchange.com/questions/64437/what-is-a-pedersen-commitment)

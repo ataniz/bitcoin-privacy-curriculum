@@ -43,11 +43,19 @@ https://6102bitcoin.com/faq-hodl-privacy/
 https://bitcoiner.guide/privacy/
 
 
+
+
+# notes
+
 TODOS:
 
 - [x] present the material at a meetup and ask for feedback
 - [ ] talk to some CTF people for inputs
+- [ ] group questions under different subtopics
+- [ ] add learning objectives under each section
+- [ ] provide notes explaining the reasons for including the questions and material
 
-
-
-
+- consider a separate section for 
+  - lightning privacy
+  - privacy related BIPs 
+  
